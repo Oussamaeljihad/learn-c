@@ -153,6 +153,4 @@ int main() {
 
 ---
 
-بغيتي نزيد نكتب ليك درس ثاني على **variables, types, operators**, ولا تبغي دوز طيارة حتى **functions and arrays**؟  
-أنا هنا، غير عطيني الإشارة ✌️
 
